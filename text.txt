@@ -1,2 +1,3 @@
-Jeg lærer meg git
-Forandrer litt på fila
+Jeg lÃ¦rer meg git
+Forandrer litt pÃ¥ fila
+BÃ¦sj
