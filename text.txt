@@ -1,3 +1,4 @@
-Jeg lærer meg git
+﻿Jeg lærer meg git
 Forandrer litt på fila
 Bæsj
+Bajs2
