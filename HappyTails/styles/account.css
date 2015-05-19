@@ -1,0 +1,24 @@
+/**************************************************************************
+***** Makes space between the save changes button and the cancel button ***
+***************************************************************************/
+#save_changes {
+	margin-left: 0.5em;
+}
+
+/*********************************************************
+***** Changes the font on the personal info heading ******
+**********************************************************/
+#personal_info {
+	font-family: 'Open Sans', serif;
+	font-size:2em;
+	font-weight: bold;
+}
+
+/*********************************************************
+***** Changes the font on the edit account heading ******
+**********************************************************/
+#edit_account {
+	font-family: 'Open Sans', serif;
+	font-size:2em;
+	font-weight: bold;
+}

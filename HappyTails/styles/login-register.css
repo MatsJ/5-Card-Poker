@@ -1,0 +1,73 @@
+/************************************************************************
+******The Success box that appears when every is good with registration**
+*************************************************************************/
+#confirmationbox {
+
+	margin-right: 50px;
+	margin-top: 10px;
+	width:400px;
+}
+
+#success2 {
+    right:10%;
+}
+
+/**********************
+******The wrapper******
+***********************/
+#wrap {
+	width:960px;
+    margin:0px auto;
+}
+
+/**************************
+******The Sign in form*****
+***************************/
+.col-lg-3 {
+	border:1px solid #D7D7D7;
+	margin-top: 20px;
+	border-radius: 2px;
+	width:30%;
+	float:left;
+}
+
+/***************************
+******Registration form*****
+****************************/
+.col-lg-6 {
+	width:90%;
+}
+
+/**************************
+******The Sign in button***
+***************************/
+#signIn {
+	margin-bottom: 10px;
+}
+
+/*******************************************************
+******The DIV box surrounding the registration form*****
+********************************************************/
+.span6 {
+	float:right;
+	width:40%;
+	margin-top: 20px;
+	overflow: hidden;
+	border:1px solid #D7D7D7;
+	border-radius: 2px;
+	margin-bottom: 1em;
+}
+
+#register_heading {
+	font-family: 'Open Sans', serif;
+	font-size:2em;
+	font-weight: bold;
+}
+
+#sign_in_heading {
+	font-family: 'Open Sans', serif;
+	font-size:2em;
+		font-weight: bold;
+}
+
+
